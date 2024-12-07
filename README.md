@@ -1,6 +1,7 @@
 # Geospatial Data Analysis
 
 
+
 This project is part of the "Geospatial Data Analysis" course at Politecnico di Milano, utilizing real-world geospatial data provided by ARPA Veneto. The analysis focuses on piezometer measurements from various boreholes within the Padua district, aiming to model and interpret groundwater levels using polynomial and spectral analysis techniques.
 
 Usage
